@@ -139,7 +139,7 @@ source venv/bin/activate
 pip install -r requirements.txt
 
 # Запустить приложение
-python app.py
+python3 app.py
 ```
 
 Flask сервер запустится по адресу `http://localhost:5000`
