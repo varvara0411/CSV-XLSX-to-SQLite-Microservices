@@ -120,6 +120,14 @@ FastAPI версия находится в директории `/fastapi`. Он
 - Python 3.8 или выше
 - pip (менеджер пакетов Python)
 
+```bash
+# Клонирование репозитория
+git clone https://github.com/varvara0411/CSV-XLSX-to-SQLite-Microservices.git
+
+# Переход в директорию проекта
+cd CSV-XLSX-to-SQLite-Microservices
+```
+
 ### **Flask версия**
 
 ```bash
