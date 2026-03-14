@@ -13,17 +13,16 @@
 ## **Структура репозитория**
 
 ```
-/
-├── flask/
-│   ├── app.py                 # Flask приложение с эндпоинтами
-│   ├── database.py             # Класс DatabaseManager для работы с SQLite
-│   └── requirements.txt        # Зависимости для Flask версии
-│
 ├── fastapi/
 │   ├── main.py                 # FastAPI приложение с эндпоинтами
 │   └── requirements.txt        # Зависимости для FastAPI версии
 │
-└── README.md                   # Данный файл
+├── flask/
+│   ├── app.py                  # Flask приложение с эндпоинтами
+│   ├── database.py              # Класс DatabaseManager для работы с SQLite
+│   └── requirements.txt         # Зависимости для Flask версии
+│
+└── README.md                    # Данный файл
 ```
 
 ## **Flask реализация**
